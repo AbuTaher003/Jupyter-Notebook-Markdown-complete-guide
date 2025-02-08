@@ -180,4 +180,3 @@ You can add emojis using Markdown syntax.
 ```
 
 ---
-
